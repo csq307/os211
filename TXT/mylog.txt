@@ -32,4 +32,14 @@ ZCZC W02  180 L05 GSGS related
 ZCZC W02  30 L08 Trying something
 ZCZC W02  120 L03 GitHub related
 ZCZC W02  30 L11 Assignment #1
-
+ZCZC W03  10 L00 General Log
+ZCZC W03  20 L08 Trying something
+ZCZC W03  90 L01 SCELE related : check deadlines, answer forums
+ZCZC W03  180 L05 GSGS related
+ZCZC W03  180 L03 GitHub related : doing W03, update logs, ranks and top 10 links
+ZCZC W03  60 L23 Discord: discussing about assignments
+ZCZC W03  120 L22 YouTube: study, relax, entertainment, etc.
+ZCZC W03  60 L11 Assignment #1
+ZCZC W03  180 L26 Movie: relax, etc.
+ZCZC W03  40 L12 Assignment #2
+ZCZC W03  25 L13 Assignment #3

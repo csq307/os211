@@ -43,3 +43,17 @@ ZCZC W03  60 L11 Assignment #1
 ZCZC W03  180 L26 Movie: relax, etc.
 ZCZC W03  40 L12 Assignment #2
 ZCZC W03  25 L13 Assignment #3
+ZCZC W04  10 L00 General Log
+ZCZC W04  180 L01 SCELE related : answer forums
+ZCZC W04  90 L02 ZOOM related
+ZCZC W04  120 L06 Reading References/Books/Documents
+ZCZC W04  30 L09 AsDos: asking, etc.
+ZCZC W04  25 L11 Assignment #1
+ZCZC W04  40 L12 Assignment #2
+ZCZC W03  240 L05 GSGS related : for W04
+ZCZC W04  30 L03 GitHub related : doing W03, update logs, ranks and top 10 links
+ZCZC W04  60 L23 Discord: discussing about assignments
+ZCZC W04  30 L13 Assignment #3
+ZCZC W04  120 L22 YouTube: study, relax, entertainment, etc.
+ZCZC W04  15 L27 Pets: feeding, playing, etc
+ZCZC W04  180 L26 Movie: relax, etc.

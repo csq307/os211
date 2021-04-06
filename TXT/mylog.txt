@@ -57,3 +57,13 @@ ZCZC W04  30 L13 Assignment #3
 ZCZC W04  120 L22 YouTube: study, relax, entertainment, etc.
 ZCZC W04  15 L27 Pets: feeding, playing, etc
 ZCZC W04  180 L26 Movie: relax, etc.
+ZCZC W05  10 L00 General Log
+ZCZC W05  30 L23 Discord
+ZCZC W05  120 L06 Reading References/Books/Documents
+ZCZC W05  60 L09 AsDos: asking, etc.
+ZCZC W03  90 L08 Trying something
+ZCZC W05  180 L11 Assignment #1
+ZCZC W05  180 L05 GSGS related
+ZCZC W05  60 L03 GitHub related
+ZCZC W03  45 L12 Assignment #2
+ZCZC W05  180 L22 YouTube: study, relax, entertainment, etc.
